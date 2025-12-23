@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Operaciones",
-  description: "Observa stocks en tiempo real totalmente gratis",
+  description: "Observa stocks en tiempo real en todo momento",
 };
 
 export default function RootLayout({
